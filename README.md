@@ -1,2 +1,0 @@
-# sandBoxjsx
-Created with CodeSandbox
